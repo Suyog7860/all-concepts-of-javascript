@@ -1,0 +1,37 @@
+React Topics for Web Development & Interviews
+1. React Basics (Core)
+
+| #  | Topic                               | Why It Matters                          |
+| -- | ----------------------------------- | --------------------------------------- |
+| 1  | **JSX**                             | HTML-like syntax inside JS              |
+| 2  | **Components**                      | Reusable building blocks                |
+| 3  | **Props**                           | Passing data to components              |
+| 4  | **State**                           | Managing local UI data                  |
+| 5  | **useState**                        | React Hook for state                    |
+| 6  | **Events Handling**                 | Handling user actions like clicks       |
+| 7  | **Conditional Rendering**           | `if`, ternary operator for UI control   |
+| 8  | **Lists & Keys**                    | Rendering arrays with `.map()`          |
+| 9  | **useEffect**                       | Side effects (API calls, subscriptions) |
+| 10 | **Forms Handling**                  | Input, onChange, controlled components  |
+| 11 | **Lifting State Up**                | Sharing state between components        |
+| 12 | **Component Lifecycle (for class)** | Optional: legacy knowledge              |
+| 13 | **React Router**                    | SPA navigation (pages, links, params)   |
+| 14 | **Context API**                     | Global state without props drilling     |
+
+
+Advanced React Topics (Important for Real Projects + Interviews)
+
+| #  | Topic                                      | Why It Matters                                 |
+| -- | ------------------------------------------ | ---------------------------------------------- |
+| 15 | **Custom Hooks**                           | Reusable logic in components                   |
+| 16 | **useRef**                                 | Referencing DOM elements, store mutable values |
+| 17 | **useReducer**                             | More complex state logic (like Redux lite)     |
+| 18 | **React.memo**                             | Performance optimization                       |
+| 19 | **Lazy Loading & Suspense**                | Code splitting, improve speed                  |
+| 20 | **Error Boundaries**                       | Catching runtime errors                        |
+| 21 | **React Portals**                          | Rendering outside the root div                 |
+| 22 | **useCallback / useMemo**                  | Performance hooks                              |
+| 23 | **State Management Libraries**             | Redux, Zustand, Recoil (interview bonus)       |
+| 24 | **Testing (Jest + React Testing Library)** | Unit + component testing                       |
+| 25 | **TypeScript with React**                  | Strong typing (increasingly common)            |
+| 26 | **Deployment**                             | Vercel, Netlify, Render                        |

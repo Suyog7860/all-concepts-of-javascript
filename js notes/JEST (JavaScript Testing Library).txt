@@ -1,0 +1,80 @@
+JEST (JavaScript Testing Library)
+Topics for Development & Interviews
+
+| # | Topic                  | Why It Matters                          |
+| - | ---------------------- | --------------------------------------- |
+| 1 | **What is Jest**       | JavaScript testing framework            |
+| 2 | **Unit Testing**       | Testing individual components/functions |
+| 3 | **Matchers**           | `toBe`, `toEqual`, `toHaveLength`, etc. |
+| 4 | **Testing Async Code** | `async/await`, `done`, `resolves`       |
+| 5 | **Mock Functions**     | `jest.fn()` to mock dependencies        |
+| 6 | **Setup & Teardown**   | `beforeEach`, `afterEach`, etc.         |
+| 7 | **Snapshot Testing**   | UI consistency testing                  |
+| 8 | **Code Coverage**      | How much of your code is tested         |
+
+
+ POSTMAN
+Topics for Development & Interviews
+
+| # | Topic                     | Why It Matters                         |
+| - | ------------------------- | -------------------------------------- |
+| 1 | **What is Postman**       | Tool for testing APIs                  |
+| 2 | **Creating Requests**     | GET, POST, PUT, DELETE                 |
+| 3 | **Headers, Params, Body** | Send data in various formats           |
+| 4 | **Environment Variables** | Reusable variables for API URLs/tokens |
+| 5 | **Testing Responses**     | View response data, status             |
+| 6 | **Authorization**         | JWT, Bearer Tokens, OAuth2             |
+| 7 | **Collections**           | Group and automate test cases          |
+| 8 | **Tests & Assertions**    | Write JS tests in Postman              |
+| 9 | **Mock Server**           | Simulate API endpoints                 |
+
+
+REST API
+Topics for Development & Interviews
+
+| #  | Topic                  | Why It Matters                      |
+| -- | ---------------------- | ----------------------------------- |
+| 1  | **What is a REST API** | Web architecture standard           |
+| 2  | **HTTP Methods**       | GET, POST, PUT, PATCH, DELETE       |
+| 3  | **Status Codes**       | 200, 201, 400, 404, 500, etc.       |
+| 4  | **CRUD Operations**    | API-based create/read/update/delete |
+| 5  | **RESTful Principles** | Stateless, resource-based routing   |
+| 6  | **Route Parameters**   | Dynamic URLs like `/api/users/:id`  |
+| 7  | **Query Parameters**   | `/products?category=phone`          |
+| 8  | **Headers & Body**     | Sending/receiving data              |
+| 9  | **Authentication**     | Token-based access                  |
+| 10 | **Versioning**         | `v1/api/users`, `v2/api/users`      |
+
+
+SQL (Structured Query Language)
+Topics for Development & Interviews
+
+| #  | Topic                           | Why It Matters                           |
+| -- | ------------------------------- | ---------------------------------------- |
+| 1  | **What is SQL**                 | Language to interact with relational DBs |
+| 2  | **Basic Queries**               | `SELECT`, `INSERT`, `UPDATE`, `DELETE`   |
+| 3  | **WHERE Clause**                | Filter results                           |
+| 4  | **ORDER BY, LIMIT**             | Sorting, pagination                      |
+| 5  | **JOINS**                       | Combine data from multiple tables        |
+| 6  | **GROUP BY / HAVING**           | Aggregate queries                        |
+| 7  | **Functions**                   | `COUNT()`, `AVG()`, `SUM()`, etc.        |
+| 8  | **Primary/Foreign Keys**        | Data relationships                       |
+| 9  | **Indexes**                     | Performance optimization                 |
+| 10 | **Subqueries & Nested Queries** | Advanced query building                  |
+
+
+FIREBASE (Google Backend-as-a-Service)
+Topics for Development & Interviews
+
+| #  | Topic                              | Why It Matters                          |
+| -- | ---------------------------------- | --------------------------------------- |
+| 1  | **What is Firebase**               | Serverless backend from Google          |
+| 2  | **Realtime Database vs Firestore** | NoSQL DBs with live sync                |
+| 3  | **Firebase Auth**                  | User signup, login, Google/GitHub login |
+| 4  | **Firebase Hosting**               | Deploy frontend apps like React         |
+| 5  | **Storage**                        | Upload and serve files like images      |
+| 6  | **Cloud Functions**                | Backend logic without servers           |
+| 7  | **Firebase Rules**                 | Secure database and storage access      |
+| 8  | **Firestore Queries**              | `where`, `orderBy`, `limit`, etc.       |
+| 9  | **Firestore Indexes**              | Required for compound queries           |
+| 10 | **Firebase CLI**                   | Hosting and deployment automation       |

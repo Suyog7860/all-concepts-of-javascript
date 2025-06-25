@@ -1,0 +1,36 @@
+MongoDB Topics for Web Development & Interviews
+1. Core MongoDB Basics
+
+| #  | Topic                                | Why It Matters                                        |
+| -- | ------------------------------------ | ----------------------------------------------------- |
+| 1  | **What is MongoDB**                  | NoSQL database, stores data as JSON-like documents    |
+| 2  | **Collections & Documents**          | Core structure (`db.collection.insertOne({})`)        |
+| 3  | **MongoDB vs SQL**                   | Difference from relational DBs (tables vs documents)  |
+| 4  | **Data Types**                       | String, Number, Boolean, Date, Array, ObjectId        |
+| 5  | **CRUD Operations**                  | `insertOne()`, `find()`, `updateOne()`, `deleteOne()` |
+| 6  | **Query Operators**                  | `$gt`, `$lt`, `$in`, `$and`, `$or`, `$regex`, etc.    |
+| 7  | **Projections**                      | Select specific fields from query results             |
+| 8  | **Indexes**                          | Improve query performance                             |
+| 9  | **Aggregation Pipeline**             | Data transformations (filtering, grouping, sorting)   |
+| 10 | **Embedded vs Referenced Documents** | Data modeling in NoSQL style                          |
+
+
+Intermediate to Advanced MongoDB Topics
+
+| #  | Topic                            | Why It Matters                                        |
+| -- | -------------------------------- | ----------------------------------------------------- |
+| 11 | **Schema Design Best Practices** | How to design scalable NoSQL schemas                  |
+| 12 | **Relationships**                | Embedding vs referencing (manual joins)               |
+| 13 | **ObjectId & \_id**              | Primary key for MongoDB documents                     |
+| 14 | **Validation Rules**             | Ensure data integrity                                 |
+| 15 | **Indexing for Performance**     | Single field, compound, text indexes                  |
+| 16 | **Aggregation Stages**           | `$match`, `$group`, `$project`, `$sort`, `$lookup`    |
+| 17 | **Pagination**                   | Using `.skip()` and `.limit()`                        |
+| 18 | **Geospatial Queries**           | Working with maps and coordinates                     |
+| 19 | **Text Search**                  | Full-text search using indexes                        |
+| 20 | **Transactions**                 | ACID transactions in MongoDB (multi-doc updates)      |
+| 21 | **MongoDB Atlas**                | Cloud-based MongoDB, hosting, scaling                 |
+| 22 | **Backup & Restore**             | `mongodump`, `mongorestore`                           |
+| 23 | **Mongo Shell Commands**         | `mongo`, `show dbs`, `use db`, `db.collection.find()` |
+| 24 | **Compass GUI**                  | Visual tool to manage and query MongoDB               |
+| 25 | **Security**                     | Authentication, roles, and network access in Atlas    |
