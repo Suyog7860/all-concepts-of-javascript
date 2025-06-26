@@ -1,0 +1,10 @@
+1. higher order functions -- ✅
+2. constructor functions -- ✅
+3. first class functions -- ✅
+4. new keyword -- ✅
+5. iife -- ✅
+6. prototype -- ✅
+7. prototype inheritance  -- ✅
+8. this call apply bind -- ✅
+9. pure and impure functions -- ✅
+10. closures --

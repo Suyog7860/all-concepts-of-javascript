@@ -68,3 +68,48 @@ abcd(12, 13, 14); // calling the function with values 12, 13 and 14
 
 // arguments = real value jo hum dete hai function chalate wakt
 // parameters = function ke andar likhe variables jinme arguments wali value store hoti hai
+
+
+// ****higher order class --  = aisa function jo accept karle 1 aur function ya phir wo 
+// return karde 1 aur function  
+
+// tarika n = 1 
+function abcd (val){ // abcd is a higher order function 
+
+}
+abcd (function(){})
+
+
+// tarika no = 2
+function abcd (){
+    return function(){}
+}
+
+
+// *** constructor function -- = normal function jis mein this ka istemaal ho and function ko
+// call karte wakt new keyword ka use kare
+
+// jab aapke pass aisa koi bhi moka ho ke aapko 1 jaisi properties waale bahot saare
+// elements banane hain us wakt hum constructor use karte hain
+
+function saanchaOfBiscuit (){
+    this.width = 12;
+    this.height = 22;
+    this.color = "brown";
+    this.taste = "sweet";
+}
+
+new saanchaOfBiscuit();
+
+
+function circularButtonBanao(color){
+    this.radius = 2;
+    this.color = color;
+    this.pressable = true;
+}
+
+var redbtn = new circularButtonBanao("red");
+var bluebtn = new circularButtonBanao("blue");
+
+
+// first class function -- = 
