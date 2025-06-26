@@ -4,3 +4,13 @@
 
 // 1] blank object
 var a = {} // this is a blank object
+
+
+// how to delete object props -- 
+
+var a = {
+    name : "Suyog",
+    age : 24
+}
+
+delete a.age; // to delete age prop this method 

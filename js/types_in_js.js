@@ -65,3 +65,14 @@ b.push(14); // b is now [12, 13, 14], and a is also [12, 13, 14]
 b.pop(); // b is now [12], but a is still [12, 13]
 console.log(a); // [12]
 console.log(b); // [12]
+
+
+// how to copy reference values 
+// array
+var c = [1, 2, 3, 4, 5];
+var d =[...c]; // ... = it is a spread operators, iska line ka matlab ye hain ki
+// c variable ko copy karo aur waha rakhdo jaha spread operator likha hain. 
+
+// object
+var obj = {name:"Suyog"};
+var copyobj = {...obj}; // same as array copy reference values with the help of spread operator
