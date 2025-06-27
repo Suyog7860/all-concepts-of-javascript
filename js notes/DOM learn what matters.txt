@@ -2,8 +2,15 @@ DOM learn what matters
 1] what is DOM = ✅
 2] 4 Pillers of DOM = ✅
 3] simple example of bulb or whatever clicking on the same button = ✅
-4] multiple events = 
-5] selecting multiple elements at a same time 
+4] multiple events = ✅
+5] selecting multiple elements at a same time = ✅
 6] settimeout 
 7] setinterval
 8] future projects
+
+** 5 DOM projects
+1] Add Friend Feature with same button remove Friend = ✅
+2] Instagram Like button = ✅
+3] Custom Cursor = ✅
+4] Multiple Image Hovering Animations = 
+5] Instagram Story Feature = 
